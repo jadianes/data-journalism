@@ -19,8 +19,11 @@ My name is [Jose A. Dianes](http://jadianes.me/) and I am a software engineer, P
 
 You can contact me easily at [my personal website](http://jadianes.me/about/).  
 
-## Notebooks  
+## Articles    
 
-#### [Tuberculosis world situation]()  
+#### [Tuberculosis world situation](https://github.com/jadianes/data-journalism-python/blob/master/notebooks/tuberculosis-world-situation/tb-world-situation.md)  
+
+Where we analyse the situation of infectious tuberculosis from 1990 to 2007 using WHO datasets.  
 
   
+
