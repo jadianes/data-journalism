@@ -21,7 +21,7 @@ You can contact me easily at [my personal website](http://jadianes.me/about/).
 
 ## Articles    
 
-#### [Tuberculosis world situation](https://github.com/jadianes/data-journalism-python/blob/master/notebooks/tuberculosis-world-situation/tb-world-situation.md)  
+#### [Tuberculosis world situation](https://github.com/jadianes/data-journalism-python/tree/master/notebooks/tuberculosis-world-situation)  
 
 Where we analyse the situation of infectious tuberculosis from 1990 to 2007 using WHO datasets.  
 
