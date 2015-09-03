@@ -269,7 +269,7 @@ had in 1990.
 - There is a country, [Djibouti](https://en.wikipedia.org/wiki/Djibouti) that
 lies quite outside of the rest and might need closer attention.
 
-## Groping countries based on their situation  
+## Grouping countries based on their situation  
 
 By [clustering](https://en.wikipedia.org/wiki/Cluster_analysis) our original
 dataset, we will colour the previous chart in order to identify up to six
