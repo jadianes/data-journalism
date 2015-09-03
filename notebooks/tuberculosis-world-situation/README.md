@@ -46,7 +46,7 @@ data contains up to 207 countries. The first few of them looks as follows:
     
     import pandas as pd
     
-    existing_df = pd.read_csv(local_tb_existing_file, index_col = 0, thousands  = ',')g
+    existing_df = pd.read_csv(local_tb_existing_file, index_col = 0, thousands  = ',')
     existing_df.index.names = ['country']
     existing_df.columns.names = ['year']
     
