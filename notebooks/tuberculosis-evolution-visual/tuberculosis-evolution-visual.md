@@ -1,6 +1,8 @@
 
 # A visual on the evolution of World infectious tuberculosis prevalence
 
+*Note: there is a [html version of the notebook](http://htmlpreview.github.io/?https://github.com/jadianes/data-journalism-python/notebooks/tuberculosis-evolution-visual/tuberculosis_evolution_visual.html). This might work better since GitHub doesn't seem to render Bokeh diagrams properly when redenring IPython/Jupyter notebook files directly.*
+
 > [From Wikipedia, the free
 encyclopedia](https://en.wikipedia.org/wiki/Tuberculosis)
 
@@ -445,7 +447,8 @@ When working with iPython/Jupyter notebooks, we generate output by using `output
     </div>
 
 
-Or we can also (and in addition) output an [html page](tuberculosis_heatmp.html) as follows.
+Or we can also (and in addition) output an html page as follows.  
+*Note: you can [preview the generated html page here](http://htmlpreview.github.io/?https://github.com/jadianes/data-journalism-python/notebooks/tuberculosis-evolution-visual/tuberculosis_heatmap.html) although some of the Bokeh features don't work properly with GitHub previews.*
 
 
     output_file("tuberculosis_heatmap.html")
@@ -491,9 +494,13 @@ The only thing remaining is to `show` the heat map with a simple call.
 
 
 
+*Note: when rendering the Ipython/Jupyter notebook file on GitHub, the Bokeh diagram doesn't show. You can have a look instead at [the generated html file](http://htmlpreview.github.io/?https://github.com/jadianes/data-journalism-python/notebooks/tuberculosis-evolution-visual/tuberculosis_heatmap.html). Or if you are reading the [html version of the notebook](http://htmlpreview.github.io/?https://github.com/jadianes/data-journalism-python/notebooks/tuberculosis-evolution-visual/tuberculosis_evolution_visual.html) you should be just fine. But please, be aware that some of the Bokeh features don't work properly with GitHub previews. But they work great at least in a IPython/Jupyter server.*
+
 ## What we see
 
-If we look at the chart by row, we have years. Each one shows how different countries were affected by the disease in a given year. If we look at the chart by columns instead, we can see how indivisual countries evolved in time. At the very bottom we have earlier years, while at the top we have the last ones in our dataset. Darker tones indicate a higher prevalence of the disease, while lighter ones indicate a lower prevalence. Yoy can zoom in and out, or traverse accross the diagram using the controls. By hoovering on top of a cell, you will see the actual value.
+If we look at the chart by row, we are looking at a country evolution in time. If we look at the chart by columns instead, we can see how the world situation was in a given year. Darker tones indicate a higher prevalence of the disease, while lighter ones indicate a lower prevalence. Yoy can zoom in and out, or traverse accross the diagram using the controls. By hoovering on top of a cell, you will see the actual value.  
+
+*Note: please, be aware that some of the Bokeh features don't work properly with GitHub previews. But they work great at least in a IPython/Jupyter server.*
 
 Do you notice how quickly we can see certain situations while looking at a visual representation of the data versus a tabular one? For example:  
 

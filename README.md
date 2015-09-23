@@ -25,5 +25,9 @@ You can contact me easily at [my personal website](http://jadianes.me/about/).
 
 Where we analyse the situation of infectious tuberculosis from 1990 to 2007 using WHO datasets.  
 
+#### [A visual on the evolution of Tuberculosis](https://github.com/jadianes/data-journalism-python/tree/master/notebooks/tuberculosis-evolution-visual/tuberculosis-evolution-visual.ipynb)
+
+Where we use Bokeh to represent the same dataset with a simple heatmap and look for visual clues.  
+
   
 
