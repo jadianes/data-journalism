@@ -4,3 +4,6 @@ ipython_notebook_spark.out
 .ipynb_checkpoints/
 **/metastore_db/
 **/derby.log
+notebooks/wine-map/apikey
+notebooks/wine-map/data.json
+
