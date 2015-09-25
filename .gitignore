@@ -5,5 +5,5 @@ ipython_notebook_spark.out
 **/metastore_db/
 **/derby.log
 **/apikey
-notebooks/wine-preferences/*.json
+notebooks/wine-market/*.json
 
