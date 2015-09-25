@@ -2,7 +2,7 @@
 
 If you are a [Data Journalist]((https://en.wikipedia.org/wiki/Data_journalism)) looking to  improve your **coding skills**, or you work as a developer giving support in a **newsroom**, you arrived to the right place.  
 
-This is a repository of articles and tutorials about doing data journalism using Python technologies. The articles presented here, apart from analysing data to present some facts about the current, past, and sometimes future world situation, will link to **programming instructions** explaining how to repeat the analysis by yourself. We live in a world where governments and the media, more often than not, serve the interests of a few. Our belief is that to empower people to do their own analysis and arrive to conclusions based on facts (data), is a way to make us all more aware and strong as a society.  
+This is a repository of articles and tutorials, as [IPython/Jupyter](https://jupyter.org) notebooks, about doing data journalism using Python technologies. The articles presented here, apart from analysing data to present some facts about the current, past, and sometimes future world situation, will show **programming instructions** explaining how to repeat the analysis by yourself. We live in a world where governments and the media, more often than not, serve the interests of a few. Our belief is that to empower people to do their own analysis and arrive to conclusions based on facts (data), is a way to make us all more aware and strong as a society.  
 
 The programming instructions will be given as web [Notebooks](https://en.wikipedia.org/wiki/IPython#Notebook) for the Python programming language. This is an ideal way of sharing code combined with textual explanations, charts, images, etc. But why Python? Well, we will sometimes use other technologies (mainly R but also JavaScript or Spark) but we think that Python has some characteristics that makes it a good environment for Data Journalism:  
 
@@ -19,7 +19,7 @@ My name is [Jose A. Dianes](http://jadianes.me/) and I am a software engineer, P
 
 You can contact me easily at [my personal website](http://jadianes.me/about/).  
 
-## Articles    
+## Article notebooks    
 
 #### [Tuberculosis world situation](https://github.com/jadianes/data-journalism-python/tree/master/notebooks/tuberculosis-world-situation)  
 
