@@ -36,3 +36,7 @@ Where we show how to use a RESTful like API to get JSON data using [`Requests`](
 
   
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jadianes/data-journalism-python/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
