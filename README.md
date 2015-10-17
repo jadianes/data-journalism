@@ -1,3 +1,5 @@
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jadianes/data-journalism-python/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 # Data Journalism using Python  
 
 If you are a [Data Journalist]((https://en.wikipedia.org/wiki/Data_journalism)) looking to  improve your **coding skills**, or you work as a developer giving support in a **newsroom**, you arrived to the right place.  
@@ -32,11 +34,3 @@ Where we use Bokeh to represent the same dataset with a simple heatmap and look 
 #### [Wine market analysis](https://github.com/jadianes/data-journalism-python/tree/master/notebooks/wine-market/wine-market.ipynb)
 
 Where we show how to use a RESTful like API to get JSON data using [`Requests`](http://www.python-requests.org/en/latest/), save JSON data into a file, doing Exploratory Data Analysis using [`Pandas`](http://pandas.pydata.org/), and generating a data visualisation using [`Seaborn`](http://stanford.edu/~mwaskom/software/seaborn/) and [`mpld3`](http://mpld3.github.io/). All this in order to explore [**Wine.com**](http://www.wine.com/) catalog and get an impression of what the wine market looks like for them.   
-
-
-  
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jadianes/data-journalism-python/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
