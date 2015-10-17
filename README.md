@@ -1,5 +1,3 @@
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jadianes/data-journalism-python/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
 # Data Journalism using Python  
 
 If you are a [Data Journalist]((https://en.wikipedia.org/wiki/Data_journalism)) looking to  improve your **coding skills**, or you work as a developer giving support in a **newsroom**, you arrived to the right place.  
