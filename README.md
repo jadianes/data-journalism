@@ -1,5 +1,7 @@
 # Data Journalism using Python  
 
+[![Join the chat at https://gitter.im/jadianes/data-journalism-python](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jadianes/data-journalism-python?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 If you are a [Data Journalist]((https://en.wikipedia.org/wiki/Data_journalism)) looking to  improve your **coding skills**, or you work as a developer giving support in a **newsroom**, you arrived to the right place.  
 
 This is a repository of articles and tutorials, as [IPython/Jupyter](https://jupyter.org) notebooks, about doing data journalism using Python technologies. The articles presented here, apart from analysing data to present some facts about the current, past, and sometimes future world situation, will show **programming instructions** explaining how to repeat the analysis by yourself. We live in a world where governments and the media, more often than not, serve the interests of a few. Our belief is that to empower people to do their own analysis and arrive to conclusions based on facts (data), is a way to make us all more aware and strong as a society.  
